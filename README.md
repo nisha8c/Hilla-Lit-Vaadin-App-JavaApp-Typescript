@@ -1,5 +1,7 @@
 # Student App
-
+Followed tutorial for stude purpose: https://techwithmaddy.com/create-a-full-stack-java-app-using-hilla
+![1](https://user-images.githubusercontent.com/108927164/218084589-d9a82a3a-0fbc-4312-9ff7-f89a5cd5e33b.jpg)
+![2](https://user-images.githubusercontent.com/108927164/218084600-bb963ec2-082a-4233-8d00-34ade44383e6.jpg)
 
 
 # Custom project from Hilla 
